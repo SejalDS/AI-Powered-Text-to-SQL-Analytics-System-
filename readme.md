@@ -44,7 +44,7 @@ We built an **AI-powered platform** that eliminates all three problems by combin
 - Supports CSV download
 
 ### AI Financial Advisor — Conversational intelligence
-![AI Chatbot Demo](screenshots/AI Chatbot Demo/AI Chatbot Demo SS1.png)
+![AI Chatbot Demo](https://github.com/SejalDS/AI-Powered-Wealth-Management-Platform/blob/main/screenshots/AI%20Chatbot%20Demo/AI%20Chatbot%20Demo%20SS1.png)
 
 **Example conversation:**
 1. "I am client 42, show me my portfolio" → Fetches real portfolio data
