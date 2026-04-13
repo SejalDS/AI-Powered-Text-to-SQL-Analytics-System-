@@ -1,4 +1,4 @@
-# AI Powered Text-to-SQL Analytics System
+# AI-Powered Wealth Analysis System
 
 (Microsoft Fabric, LangChain, Python)
 
