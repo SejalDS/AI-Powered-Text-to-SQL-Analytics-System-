@@ -1,0 +1,46 @@
+# Virtual environment
+myenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ChromaDB data
+chroma.sqlite3
+*.sqlite3
+
+# User memory
+user_memory/
+
+# Credentials (NEVER commit these)
+FinancialGoals/RAGToSQL/Helper/Credentials.py
+
+# Environment variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Training artifacts (large files)
+training_summary.csv
+
+# ChromaDB folders (auto-generated)
+5156f81a-*/
+aa1912c7-*/
+dcb58b46-*/
+
+# Logs
+*.log
