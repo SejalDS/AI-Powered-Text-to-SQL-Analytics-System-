@@ -35,7 +35,7 @@ We built an **AI-powered platform** that eliminates all three problems by combin
 ## DEMO
 
 ### SQL Copilot — Ask questions, get data + charts
-![SQL Copilot Demo](https://github.com/SejalDS/AI-Powered-Wealth-Management-Platform/blob/main/screenshots/SQL%20Copilot%20Demo/SQL%20Copilot%20Demo%20images.pdf)
+![SQL Copilot Demo](https://github.com/SejalDS/AI-Powered-Wealth-Management-Platform/blob/main/SQL%20Copilot%20Demo.gif)
 
 **Example:** "Show me the top 5 clients with highest portfolio value"
 - Auto-generates SQL query
